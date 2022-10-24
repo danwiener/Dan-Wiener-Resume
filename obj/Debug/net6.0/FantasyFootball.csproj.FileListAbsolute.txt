@@ -1,0 +1,8 @@
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.csproj.AssemblyReference.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.AssemblyInfoInputs.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.AssemblyInfo.cs
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.csproj.CoreCompileInputs.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.RazorAssemblyInfo.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\FantasyFootball.RazorAssemblyInfo.cs

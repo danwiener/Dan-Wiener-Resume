@@ -1,0 +1,8 @@
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.csproj.AssemblyReference.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.AssemblyInfoInputs.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.AssemblyInfo.cs
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.csproj.CoreCompileInputs.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.RazorAssemblyInfo.cache
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ResumeTemplater.RazorAssemblyInfo.cs

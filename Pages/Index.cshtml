@@ -1,0 +1,59 @@
+﻿@page
+<!-- Index.cshtml -->
+<!-- Add model directive below -->
+@model IndexModel
+
+@{
+	ViewData["Title"] = "Home";
+}
+
+
+<div class="jumbotron jumbotron-fluid jumbotron-container resume-jumbotron text-white">
+	<div class="container-fluid jumbotron-content">
+		<p class="text-center jumbotron-header mb-4">Hey there, I'm @Model.FullName!</p>
+	</div>
+</div>
+
+
+<div class="container">
+  	<div class="resume-content">
+		<h4 class="general-header mb-3">Summary:</h4>
+		<p class="general-content mb-3">Software engineer and U.S. Marine with 4 years of service. @Model.YearsOfExperience+ years of experience learning C#,
+JavaScript, HTML, CSS, SQL, Java, and Python during majority of waking moments. Small-team
+leader, and continuous self-starter. Voracious appetite for learning, excellent problem-solver, and
+a strong desire to be successful and assist co-workers to create an efficient and cohesive team.
+.</p>
+	</div>
+
+	<div class="resume-content">
+		<h4 class="general-header mb-3">Languages:</h4>
+		<ul class="list-group general-content">
+			@foreach (string item in @Model.Languages)
+			{
+				<li class="list-item" style="width: 18rem;">
+					@item
+				</li>
+			}
+		</ul>
+	</div>
+
+	<div class="resume-content">
+		<h4 class="general-header mb-3">Platforms/Framework:</h4>
+		<ul class="list-group general-content">
+			@foreach (string item in @Model.Platforms_Framework)
+			{
+				<li class="list-item" style="width: 18rem;">
+					@item
+				</li>
+			}
+		</ul>
+	</div>
+
+	<div class="resume-content">
+		<h4 class="general-header mb-3">Contact</h4>
+		<p class="general-content" for="@Model.LinkedInUsername">
+			<!-- Render partial for Link below -->
+			For more information regarding my experience, please refer to my<partial name="_Links"/>
+		</p>
+	</div>
+</div>
