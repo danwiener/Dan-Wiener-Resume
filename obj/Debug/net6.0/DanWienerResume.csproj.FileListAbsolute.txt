@@ -1,10 +1,10 @@
+C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.dll
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\appsettings.json
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.staticwebassets.runtime.json
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.exe
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.deps.json
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.runtimeconfig.json
-C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.dll
 C:\Users\danwi\source\repos\TestWebApp\bin\Debug\net6.0\DanWienerResume.pdb
 C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\DanWienerResume.csproj.AssemblyReference.cache
 C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\DanWienerResume.GeneratedMSBuildEditorConfig.editorconfig

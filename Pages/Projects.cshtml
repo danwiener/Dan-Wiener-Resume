@@ -26,16 +26,25 @@
       </p>
 			<p class="project-description general-content">
         @p.Description
+					<ul class="list-group project-technologies">
+						@foreach (string item in @p.Technologies)
+						{
+							<h6 class="technology-titles general-header">Platforms/Framework:</h6>
+							<li class="list-group-item" style="width: 18rem;">
+								@item
+							</li>
+						}
+					</ul>
       </p>
 		</div>
     }
   }
-  
-  <br>
+
+	<br>
 	<h4 class="general-header">Portfolio</h4>
 	<p class="general-content" for="@Model.GithubUsername">
-    <!-- Render partial for Link below -->
-    For more information regarding my projects, please refer to my <partial name="_Links"/>
+		<!-- Render partial for Link below -->
+		For more information regarding my projects, please refer to my <partial name="_Links" model="@Model.LinkProp"/>
 	</p>
 	<br>
 </div>

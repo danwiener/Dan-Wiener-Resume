@@ -49,11 +49,11 @@ a strong desire to be successful and assist co-workers to create an efficient an
 		</ul>
 	</div>
 
-	<div class="resume-content">
-		<h4 class="general-header mb-3">Contact</h4>
-		<p class="general-content" for="@Model.LinkedInUsername">
-			<!-- Render partial for Link below -->
-			For more information regarding my experience, please refer to my<partial name="_Links"/>
-		</p>
-	</div>
+	<br>
+	<h4 class="general-header">Portfolio</h4>
+	<p class="general-content" for="@Model.LinkedInUsername">
+		<!-- Render partial for Link below -->
+		For more information regarding my projects, please refer to my @await Html.PartialAsync("_Links", new Link(LinkType.LinkedIn))
+	</p>
+	<br>
 </div>

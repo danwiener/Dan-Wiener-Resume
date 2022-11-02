@@ -1,3 +1,4 @@
+
 // Index.cshtml.cs
 using System;
 using System.Collections.Generic;
@@ -17,7 +18,7 @@ namespace DanWienerResume.Pages
         public string LinkedInUsername { get; set; }
         public int YearsOfExperience { get; set; }
         public List<string> Languages { get; set; }
-        public List<string> Platforms_Framework {get; set;}
+        public List<string> Platforms_Framework { get; set; }
 
         #endregion
 
@@ -26,8 +27,8 @@ namespace DanWienerResume.Pages
             FullName = "Henrik Wiener";
             LinkedInUsername = "henrikwiener";
             YearsOfExperience = 2;
-            Languages = new List<string>() { "C#", "Java", "JavaScript", "HTML5", "CSS", "Python", "T-SQL", "Git"};
-            Platforms_Framework = new List<string>() { "ASP.NET Core MVC", "Visual Studio", "JavaFX", "Node.js", "SSMS", 
+            Languages = new List<string>() { "C#", "Java", "JavaScript", "HTML5", "CSS", "Python", "T-SQL", "Git" };
+            Platforms_Framework = new List<string>() { "ASP.NET Core MVC", "Visual Studio", "JavaFX", "Node.js", "SSMS",
                 "Azure Data Studio", "Git" };
 
         }
