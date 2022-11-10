@@ -14,18 +14,17 @@ namespace DanWienerResume.Pages
         public string Description { get; set; }
         public void OnGet()
         {
-            Description = "I love coding; I grew up with a father who was a computer science professor " +
-                "(PhD), a mother who has a Master’s degree in computer science, and half brothers each " +
-                "with an M.S. as well who became successful developers in the Bay Area, so I have been " +
-                "exposed to tech my whole life. My parents largely helped foster my love for tech from when " +
-                "I got my first Windows PC at 3 or 4 years old, and I have never stopped utilizing technology " +
-                "since, having grown up reading online content, playing games, editing photos, producing " +
-                "videos, or watching my dad grade C# projects in Visual Studio. I have a deep admiration " +
-                "for Microsoft and the impact its products have had on the world, fundamentally changing the " +
-                "way people do things and improving the lives of millions of people. I have connected with " +
-                "numerous Microsoft employees as well, whom have solidified this feeling. Having developed my " +
-                "passion for coding a few years ago, born out of my love for tech, it would be a dream come " +
-                "true to be apart of this team and make meaningful products to contribute to others’ lives.\r\n";
+            Description = "After 4 years in the Marine Corps, I am currently committed to pursuing my dream of becoming a software engineer." +
+                "\r\n\r\nI love coding; I grew up with a father who was a computer science professor (PhD), a mother who has a Master’s degree, " +
+                "and half brothers who became successful developers in the Bay Area, so I have been exposed to tech my whole life. My parents largely " +
+                "helped foster my love for tech from when I got my first computer at 3 or 4 years old, and I have never stopped utilizing technology since. " +
+                "\r\n\r\nIt feels only natural, then, that I fell in love with software development as soon as I picked up my first Intro to Python book and " +
+                "started teaching myself coding, before I started work toward my Bachelor's in computer science and achieved my goal of attending the " +
+                "Microsoft Software & Systems Academy (MSSA).\r\n\r\nI strive to be better every single day, and constantly learn more through voracious " +
+                "reading of books or online content, and spending nearly all my waking moments coding. Technology is constantly evolving, and I am drawn to " +
+                "the challenge of constantly having something new to learn, from my (hopefully one day perfect) extensive JavaFX fantasy football application, " +
+                "to my ASP .NET Core resume website, or my web-scraping pin-guessing Node.js app. \r\n\r\nI currently utilize C#, HTML, CSS, JavaScript, and " +
+                "SQL, and ASP .NET Core, with experience in Java and Python as well. I am grateful to be here, and look forward to what the future holds.\r\n";
 
             Email = "henrik.wiener@outlook.com";
         }
