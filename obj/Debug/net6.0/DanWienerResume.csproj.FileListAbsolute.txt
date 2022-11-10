@@ -24,3 +24,8 @@ C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\refint\DanWienerResume.d
 C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\DanWienerResume.pdb
 C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\DanWienerResume.genruntimeconfig.cache
 C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\ref\DanWienerResume.dll
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\staticwebassets\msbuild.DanWienerResume.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.DanWienerResume.props
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DanWienerResume.props
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DanWienerResume.props
+C:\Users\danwi\source\repos\TestWebApp\obj\Debug\net6.0\staticwebassets.pack.json

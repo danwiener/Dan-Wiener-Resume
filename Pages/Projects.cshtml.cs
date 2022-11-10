@@ -25,24 +25,26 @@ namespace DanWienerResume.Pages
             Projects = new List<Project> {
                 new Project()
                 {
-                    Title = "Explorella",
-                    Description = "A large scale travelling application built to help plan your destination and itinerary on your next trip! Built on React, Node, Express, and MongoDB.",
-                    Year = 2019,
-                    Technologies = new List<string>(){".NET"}
+                    Title = "Extensive JavaFX Fantasy Football App",
+                    Description = "Fantasy football application using in-depth principles of object-oriented programming and the JavaFX GUI framework, robust exception and event handling, attention to detail in every facet." +
+                    "Goal is to one day perfect this, perhaps get licensing and connect it to the NFL API for use of real team and player names. Short term goal is to adopt and translate this app into .NET MAUI framework utilizing SQL" +
+                    "Server backend or aforementioned API for practice building a fullstack application.",
+                    Year = 08/2022,
+                    Technologies = new List<string>(){"JavaFX", "Java"}
                 },
                 new Project()
                 {
-                    Title = "Cypher Clothing",
-                    Description = "A large scale e-commerce clothing store application. Built with Razor Pages and SQLite.",
-                    Year = 2019,
-                    Technologies = new List<string>(){".NET"}
+                    Title = "ASP.NET Personal Resume Website Using C# and HTML in Razor Syntax",
+                    Description = "My personal resume hosted on a simple ASP.NET website, and a foray into ASP.NET Razor pages.",
+                    Year = 10/2022,
+                    Technologies = new List<string>(){".NET", "Visual Studio", "Razor Pages", "C#"}
                 },
                 new Project()
                 {
-                    Title = "Password Box",
-                    Description = "A password manager Chrome plugin used to create and safely store all your passwords! Built with Javascript and HTML.",
-                    Year = 2020,
-                    Technologies = new List<string>(){".NET"}
+                    Title = "Node.js GuessThePin.com Robotic Process Automation App",
+                    Description = "Foray into Node.js using Puppeteer library to navigate to GuessThePin.com in a headless state and continue to guess a 4 digit pin until the pin is correctly guessed, displaying the number of guesses it took on the console.",
+                    Year = 10/2022,
+                    Technologies = new List<string>(){"Node.js", "JavaScript", "Puppeteer Library"}
                 }
             }; // end create Projects property (list of Project objects)
         } // end OnGet()
